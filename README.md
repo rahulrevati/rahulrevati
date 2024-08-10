@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning MernStack
 - 📫 How to reach me rahulrevati232@gmail.com
+- 🤏🏽 Fun facts loves exploring new places
 
 
 <!---
